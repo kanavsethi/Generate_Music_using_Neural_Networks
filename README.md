@@ -1,5 +1,5 @@
-# Generate_Music_using_Nueral_Networks
-Generate_Music_using_Nueral_Networks
+# Generate_Music_using_Neural_Networks
+Generate_Music_using_Neural_Networks
 
 
 ### Welcome to My Awesome Repository! 🚀
